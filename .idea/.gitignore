@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Profile Settings
+/inspectionProfiles/
+# IML files
+hw5-critters-sondande.iml
+# XML files
+misc.xml
+modules.xml
+Project_Default
+vcs.xml
